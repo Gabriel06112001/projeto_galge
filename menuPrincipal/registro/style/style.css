@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin:0;
+    border: 0;
+}
+
+.bg1{
+    background-image: url(../imagem/user\ 1.png);
+    width: 100%;
+    min-height: 100vh;
+    z-index: -100;
+
+}
+.menu{
+    position: relative;
+    background-color: #0B73C8;
+    width: 80%;
+    height: 70vh;
+    left: 10%;
+    top: 15vh;
+    border-radius: 50px;
+
+}
+.menu1,.menu2{
+    position: relative;
+    width:49.5%;
+    height:70vh;
+    float: left;
+
+    border: 1px solid #fff;
+
+}
+.menu1>img{
+    position: relative;
+    width: 50%;
+    left: 25%;
+    margin-top: 10vh;
+    
+
+}   
